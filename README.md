@@ -36,8 +36,4 @@ Along with my academic background, I focus on **innovative projects, scientific 
 
 
 ---
-
-
-dayanmoshe/dayanmoshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
