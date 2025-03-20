@@ -1,4 +1,4 @@
-# 👋 Hello! I'm **Fabio Felipe**  
+# 🖖 Hello! I'm **Fabio Felipe**  
 ### 🚀 *Technology Enthusiast | Scientist | Innovator*  
 
 I'm passionate about technology, science, and innovation, always chasing new knowledge and growth. I blend advanced technical skills with a strategic eye for opportunities.
